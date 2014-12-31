@@ -1,2 +1,4 @@
 added another line
 line added
+
+*****
