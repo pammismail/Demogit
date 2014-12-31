@@ -1,2 +1,6 @@
 added another line
 line added
+
+*****
+
+added a line from branch
